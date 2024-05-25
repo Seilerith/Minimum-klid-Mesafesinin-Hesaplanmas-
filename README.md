@@ -1,1 +1,1 @@
-# Minimum-klid-Mesafesinin-Hesaplanmas-
+# Minimum-öklid-Mesafesinin-Hesaplanmas-
